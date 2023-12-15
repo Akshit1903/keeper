@@ -31,7 +31,7 @@
 3. Start the application:
 
 ```bash
-    node index.js
+    npm start
 ```
 
 4. Open your web browser and visit `http://localhost:3000` to access the Keeper app.
